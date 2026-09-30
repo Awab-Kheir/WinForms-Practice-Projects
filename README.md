@@ -149,4 +149,18 @@ They are educational desktop projects rather than production applications.
 
 ## Screenshots
 
-Screenshots for the individual projects will be added later.
+### Tic Tac Toe
+
+![Tic Tac Toe](screenshots/01-tic-tac-toe.png)
+
+### Pizza Restaurant UI
+
+![Pizza Restaurant UI](screenshots/02-pizza-restaurant-ui.png)
+
+### Login Form
+
+![Login Form](screenshots/03-login-form.png)
+
+### Employee Management UI
+
+![Employee Management UI](screenshots/04-employee-management-ui.png)
