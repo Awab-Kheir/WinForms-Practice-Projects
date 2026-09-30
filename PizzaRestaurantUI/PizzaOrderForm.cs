@@ -16,6 +16,15 @@ namespace Pizza
         public PizzaOrderForm()
         {
             InitializeComponent();
+            //II
+            gbSize.Parent = pictureBox1;
+            gbToppings.Parent = pictureBox1;
+            groupBox2.Parent = pictureBox1;
+            gbCrustType.Parent = pictureBox1;
+            gbWhereToEat.Parent = pictureBox1;
+            btnOrderPizza.Parent = pictureBox1;
+            btnResetForm.Parent = pictureBox1;
+            label1.Parent = pictureBox1;
         }
 
         void UpdateSize()

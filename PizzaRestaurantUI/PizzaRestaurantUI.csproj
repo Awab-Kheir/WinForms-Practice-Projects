@@ -86,5 +86,8 @@
   <ItemGroup>
     <None Include="Resources\engin-akyurt-IfAb0bjhHlc-unsplash.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vecteezy_freshly-baked-gourmet-pizza-on-rustic-wooden-table-italian_25093702.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

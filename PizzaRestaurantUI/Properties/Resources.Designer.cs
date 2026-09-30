@@ -83,9 +83,9 @@ namespace Pizza.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Screenshot__149_ {
+        internal static System.Drawing.Bitmap vecteezy_freshly_baked_gourmet_pizza_on_rustic_wooden_table_italian_25093702 {
             get {
-                object obj = ResourceManager.GetObject("Screenshot (149)", resourceCulture);
+                object obj = ResourceManager.GetObject("vecteezy_freshly-baked-gourmet-pizza-on-rustic-wooden-table-italian_25093702", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
